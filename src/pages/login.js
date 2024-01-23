@@ -121,11 +121,6 @@ function Login() {
           <div className="forgot-password">
       <Link to="/forgot-password">Forgot Password?</Link>
     </div>
-        
-
-          <h6>
-            Don't have an account yet? <Link to="/signup">Signup</Link>
-          </h6>
         </div>
       </div>
     </div>
